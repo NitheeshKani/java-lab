@@ -68,5 +68,6 @@ public class BankExceptionEx1 {
         validateName(name);
         validateJob(job);
         validateAge(age);
+        scan.close(); 
     }
 }
