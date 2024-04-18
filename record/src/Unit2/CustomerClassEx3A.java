@@ -13,7 +13,7 @@ class Customer {
 }
 public class CustomerClassEx3A {
     public static void main(String[] args) {
-        Customer c = new Customer("Nitheesh", "Pune", 1234567890L);
+        Customer c = new Customer("kani", "Pune", 1234567890L);
         System.out.println(c.name + " " + c.address + " " + c.phone);
     }
 }  
